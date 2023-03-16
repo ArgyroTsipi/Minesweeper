@@ -1,0 +1,23 @@
+.menu-item .label {
+    -fx-text-fill: Bisque;
+}
+
+.menu-item:focused {
+     -fx-background-color: RosyBrown;
+}
+
+.menu-item:focused .label {
+    -fx-text-fill: Bisque;
+}
+
+.context-menu {
+    -fx-background-color: RosyBrown;
+}
+
+.menu-bar .label {
+    -fx-text-fill: Lavender;
+}
+
+.menu:hover {
+    -fx-background-color: Bisque;
+}
